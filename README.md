@@ -13,9 +13,8 @@ Os desafios variam em dificuldade — de conceitos básicos até problemas que e
 - Manter um portfólio técnico com código limpo e funcional
 - Mostrar minha evolução como desenvolvedor
 
-## 🛠️ Tecnologias:
+## 🧩 Tecnologias:
 - Java
-- Git e GitHub
 
 ## 👨‍💻 Autor
-**Wxrley** — só mais um dev latino americano apaixonado por resolver problemas com código 💪
+**Wxrley** — só mais um dev latino americano 💪
